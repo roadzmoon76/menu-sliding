@@ -141,6 +141,7 @@ table {
   background-color: black;
   top: 4rem;
   left: 7rem;
+  border: 1px solid yellow;
 }
 
 #container-vertical {
